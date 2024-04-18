@@ -10,10 +10,10 @@ Cognitive routing is expected to be a key technology to realize intellectualized
 
 ### Key Words
 
-- cognitive routing
-- autonomous network
-- reinforcement learning
-- network simulation
+- Cognitive Routing
+- Autonomous Network
+- Reinforcement Learning
+- Network Simulation
 
 ### Key Codes
 
