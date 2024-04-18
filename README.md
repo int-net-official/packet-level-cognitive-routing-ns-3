@@ -166,7 +166,7 @@ pytest test_installation.py
 
 Yang Xiao (zackxy@bupt.edu.cn), Beijing University of Posts and Telecommunications, China
 
-# Cite
+# Citiation
 
 > Y. Xiao, J. Li, J. Wu and J. Liu, "On Design and Implementation of Reinforcement Learning Based Cognitive Routing for Autonomous Networks," in IEEE Communications Letters, vol. 27, no. 1, pp. 205-209, Jan. 2023, doi: 10.1109/LCOMM.2022.3211342.
 
@@ -179,6 +179,5 @@ Yang Xiao (zackxy@bupt.edu.cn), Beijing University of Posts and Telecommunicatio
   volume={27},
   number={1},
   pages={205-209},
-  keywords={Routing;Training;Measurement;Monitoring;Task analysis;Quality of service;Neural networks;Cognitive routing;autonomous network;reinforcement learning;network simulation},
   doi={10.1109/LCOMM.2022.3211342}}
 ```
